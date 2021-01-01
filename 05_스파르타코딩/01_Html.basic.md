@@ -161,4 +161,9 @@
 
 완성!! 짝짝!!
 
-![login](C:\Users\김연희\Desktop\TIL\05_스파르타코딩\img_s\login.JPG)
+
+
+<img src="C:\Users\김연희\Desktop\TIL\05_스파르타코딩\img_s\login.JPG" alt="login" style="zoom:33%;" />
+
+
+

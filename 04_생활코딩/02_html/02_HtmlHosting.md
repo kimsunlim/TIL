@@ -25,9 +25,8 @@
 
 
 
-![f_client](C:\Users\김연희\Desktop\f_client.JPG)
 
-
+<img src="https://user-images.githubusercontent.com/71312462/104084120-1e298700-5288-11eb-983e-92b4930f6ac1.JPG" width="90%"></img>
 
 
 

@@ -13,7 +13,8 @@
 
 우와! 웹의 메소포타미아에 왔당>ㅁ<
 
-![f_web](C:\Users\김연희\Desktop\f_web.JPG)
+<img src="https://user-images.githubusercontent.com/71312462/104084245-d6572f80-5288-11eb-9243-90bc8428a582.JPG" width="90%"></img>
+
 
 
 
@@ -36,7 +37,7 @@
 
 - 대표적 웹호스팅 **git hub**
 
-![f_hosting](C:\Users\김연희\Desktop\f_hosting.JPG)
+<img src="https://user-images.githubusercontent.com/71312462/104084233-c4758c80-5288-11eb-8b3c-31161ad30d1b.JPG" width="90%"></img>
 
 
 

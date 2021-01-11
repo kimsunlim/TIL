@@ -36,8 +36,7 @@
 
 
 
-![h_w](C:\Users\김연희\Desktop\h_w.png)
-
+<img src="https://user-images.githubusercontent.com/71312462/104194441-b0868200-5464-11eb-8bc6-b52a2307cd20.png" width="90%"></img>
 브라우저가 웹서버에 접속하기 위해서는 웹서버가 설치된 컴퓨터의 주소(ip 주소)를 알아야 한다.
 
 

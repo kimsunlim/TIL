@@ -73,5 +73,25 @@ quick_sort(array, 0, len(array)-1)
 
 
 
+#4. 계수정렬
+#특정한 조건이 부합할때만 사용할수 있지만 매우 빠르게 동작함
+#데이터 크기범위가 제한됨
+
+
+
+array =[7,5,9,0,3,1,6,2,4,8]
+
+#모든 범위를 포함하는 리스트 선언, 모든값은 0으로 초기화
+count =[0] * (max(array)+1)
+
+for i in range(len(array)):
+    count[array[i]] +=1 #각 데이터에 해당하는 인덱스의 값 증가
+
+for i in range(len(count)): #리스트에 기록된 정렬 정보 확인/인덱스 0 부터 9까지 확인
+    for j in range(count[i]):
+        print(i,end=' ')
+
+
+
 
 

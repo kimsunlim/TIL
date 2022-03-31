@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 30 08:53:01 2022
 
-@author: KMMD011
-"""
 
 ##문자열
 #Q1. 아스키코드

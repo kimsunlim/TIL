@@ -16,4 +16,4 @@ while True:
         print('multiple')
         
     else: 
-        ('neither')
+       print ('neither')
